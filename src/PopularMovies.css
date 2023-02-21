@@ -1,0 +1,23 @@
+.row{
+    background-color: black;
+    text-decoration: aliceblue;
+    color: aliceblue;
+    justify-content: center;
+}
+.new{
+    background-color: black;
+    color: aliceblue;
+}
+.there{
+    background-color: black;
+    text-decoration-color: black;
+    color: aliceblue;
+}
+
+@media screen and (max-width:530px) {
+    .row{
+        justify-content: center;
+    }
+    
+    
+}
